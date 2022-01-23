@@ -1,3 +1,13 @@
+Lecture : Artificial Intelligence
+
+◦	Research on Artificial Intelligence and P5.js Tech. (YouTube, Udemyetc.)
+◦	Coding the project (JavaScript)
+◦	Importing AI libraries
+
+◦	OS : Windows 10
+◦	Prog. Lang. : JavaScript
+◦	Tools : VS Code, P5.js
+
 Read Me !
 
 Proje yapımı bir javascript türü olan p5.js kullanılarak yapılmıştır.
